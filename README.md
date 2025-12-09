@@ -21,7 +21,7 @@ This README provides:
 
 ---
 
-## 📌 1. Code Execution Instructions
+## 1. Code Execution Instructions
 
 ### **Step 1 — Upload dataset to HDFS**
 
@@ -82,7 +82,7 @@ These scripts automatically load DWS CSV files and generate plots for all eight 
 
 
 
-## **📌 2. High-Level System Logic (Conceptual Overview)**
+## ** 2. High-Level System Logic (Conceptual Overview)**
 
 Our project follows a structured big data architecture:
 
@@ -131,7 +131,7 @@ The DWS layer contains four prepared datasets used to answer all eight RQs:
 
 
 
-## **📌 3. Repository Structure**
+## ** 3. Repository Structure**
 
 | **File**                       | **Description**                                        |
 | ------------------------------ | ------------------------------------------------------ |
@@ -150,13 +150,13 @@ The DWS layer contains four prepared datasets used to answer all eight RQs:
 
 
 
-## **📌 4. Project Repository Link**
+## ** 4. Project Repository Link**
 
 👉 **GitHub Repository:** https://github.com/ByFan-coder/COVID-19-Big-Data-Analytics-and-Visualization
 
 
 
-## **📌 5. Contributors**
+## ** 5. Contributors**
 
 - ByFan-coder
 - Max-CCpersonal / Max-GengNIU
