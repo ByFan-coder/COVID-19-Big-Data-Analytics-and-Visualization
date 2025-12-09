@@ -1,6 +1,6 @@
 # Big Data COVID-19 Analytics Project
 
-## Contirbuters：
+## Contributers：
 
 **Weiyi Luo (WL3398)**
 
