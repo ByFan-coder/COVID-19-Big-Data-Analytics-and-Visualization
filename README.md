@@ -8,7 +8,7 @@
 
 **Geng Niu (GN2279)**
 
-This repository contains the full implementation of our end-to-end big data pipeline for analyzing the global progression of COVID-19 using the OWID dataset (2.1M+ rows).  
+This repository contains the full implementation of our end-to-end big data pipeline for analyzing the global progression of COVID-19 using the OWID dataset (379k+ rows).  
 
 Our workflow integrates **Hadoop HDFS**, **Hive (ODS → DWD → DWS)**, **Spark**, and **Python visualization**.
 
