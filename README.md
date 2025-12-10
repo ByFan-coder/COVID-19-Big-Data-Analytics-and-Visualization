@@ -23,6 +23,7 @@ This README provides:
 
 ## 1. Code Execution Instructions
 
+Please following "HDFS and HIVE operations.pdf" to finish HDFS and Hive operations.
 ### **Step 1 — Upload dataset to HDFS**
 
 ```bash
